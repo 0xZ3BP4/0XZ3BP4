@@ -30,6 +30,12 @@ This GitHub showcases some of my side projects, notes, and useful resources I’
 
 ---
 
+## 📂 Useful Resources
+I like sharing some references and guides I personally keep handy:  
+
+- 📄 [Reference Notes](https://mega.nz/folder/BcFXiCJb#5onp7zbGmvuAjVqJp70PUg/folder/kQsihTQB)  
+
+---
 
 ## 📜 Signature
 ```
